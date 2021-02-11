@@ -3,9 +3,9 @@ A maze generator in p5.js using the depth-first-search-recursive-backtracker alg
 
 Some example results, respectively on a 10x10, 20x20 and 30x30 grid (sorry I could not make a GIF of it making):
 
-![](download%2022.png)
-![](download%2023.png)
-![](download%2024.png)
+![](download%20(22).png)
+![](download%20(23).png)
+![](download%20(24).png)
 
 View on P5 web editor: https://editor.p5js.org/bibi.abrah/sketches/PXJaakp70
 
