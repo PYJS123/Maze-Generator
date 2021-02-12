@@ -7,8 +7,9 @@ Some example results, respectively on a 10x10, 20x20 and 30x30 grid:
 ![](download%20(23).png)
 ![](download%20(24).png)
 
-Here is a GIF I attempted to make of it solving (sorry, for some reason, there were issues in creating and exporting it):
-![]()
+Here is a GIF I attempted to make of it solving (sorry, for some reason, there were issues in creating and exporting it, especially the noticeably missing frames😕😕):
+
+![](Attempt_at_GIF_First.mp4)
 
 View on P5 web editor: https://editor.p5js.org/bibi.abrah/sketches/PXJaakp70
 
